@@ -19,15 +19,13 @@ Sou um desenvolvedor apaixonado por arquitetura de software, automação e por c
 
 -  Atualmente trabalhando com desenvolvimento focado em **Inovação**.
 -  Cursando **Análise e Desenvolvimento de Sistemas**.
--  Entusiasta de automação (n8n, integrações com IA) e customização de sistemas.
--  **Fora do teclado:** Você me encontra "rollando" a loja no TFT, jogando LoL ou interpretando meu bardo Halfling em uma mesa de D&D.
 
 ###  Minhas Estatísticas
 
 <p align="left">
   <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Detalhes do Perfil" />
-  <img src="./profile-summary-card-output/default/1-repo-languages.svg" alt="Linguagens mais usadas" />
-  <img src="./profile-summary-card-output/default/2-commit-details.svg" alt="Detalhes de Commits" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Detalhes de Commits" />
 </p>
 
 ##  Como me encontrar
